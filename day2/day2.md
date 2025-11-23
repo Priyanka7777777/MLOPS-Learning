@@ -1,8 +1,4 @@
 
-DAY_2_Modules_and_Packages.md
-```
-
----
 
 # 📘 **Day 2 — Python Modules & Packages (MLOps Foundations)**
 
