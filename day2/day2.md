@@ -1,9 +1,4 @@
-Great — let’s begin **Day 2** of Week 1.
-Here is your **GitHub-ready Markdown file** for **Day 2 — Python Modules & Packages**.
 
-You can save it as:
-
-```
 DAY_2_Modules_and_Packages.md
 ```
 
