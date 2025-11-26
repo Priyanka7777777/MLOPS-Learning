@@ -181,7 +181,7 @@ MLOps enhances the **entire lifecycle**:
 
 ---
 
-## ✅ **Mermaid Diagram (GitHub renders this automatically)**
+## ✅ **Mermaid Diagram **
 
 ```mermaid
 flowchart TD
