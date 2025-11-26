@@ -7,6 +7,8 @@
 ---
 
 <p align="center">
+
+![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
