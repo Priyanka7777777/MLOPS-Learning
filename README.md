@@ -8,8 +8,8 @@
 
 <p align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/mlops-guide?color=green)
-![GitHub stars](https://img.shields.io/github/stars/your-username/mlops-guide?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/priyanka7777777/mlops-guide?color=green)
+![GitHub stars](https://img.shields.io/github/stars/priyanka7777777/mlops-guide?style=social)
 ![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
