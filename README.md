@@ -16,17 +16,16 @@
 
 ---
 
-# 📌 **Table of Contents**
-
-1. [What is MLOps?](#what-is-mlops)
-2. [Why MLOps?](#why-mlops)
-3. [Who Needs MLOps?](#who-needs-mlops)
-4. [Traditional Data Science Lifecycle](#traditional-data-science-lifecycle)
-5. [Where MLOps Fits](#where-mlops-fits)
-6. [End-to-End MLOps Lifecycle](#end-to-end-mlops-lifecycle)
-7. [Architecture Diagrams](#architecture-diagrams)
-8. [Tools in MLOps](#tools-in-mlops)
-9. [Conclusion](#conclusion)
+## 📌 Table of Contents
+- [What is MLOps?](#-what-is-mlops)
+- [Why MLOps?](#-why-mlops)
+- [Who Needs MLOps?](#-who-needs-mlops)
+- [Traditional Data Science Lifecycle](#-traditional-data-science-lifecycle)
+- [Where MLOps Fits](#-where-mlops-fits)
+- [End-to-End MLOps Lifecycle](#-end-to-end-mlops-lifecycle)
+- [Architecture Diagrams](#-architecture-diagrams)
+- [Tools in MLOps](#-tools-in-mlops)
+- [Conclusion](#-conclusion)
 
 ---
 
